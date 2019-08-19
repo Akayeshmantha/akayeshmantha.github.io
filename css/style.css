@@ -2551,9 +2551,9 @@ h6 {
 /* My Tabs Area css
 ============================================================================================ */
 .mytabs_area {
-  background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%); }
+  background-image: -moz-linear-gradient(0deg, #2bff04 0%,  #378665 100%);
+  background-image: -webkit-linear-gradient(0deg, #2bff04 0%, #378665 100%);
+  background-image: -ms-linear-gradient(0deg, #2bff04 0%,  #378665 100%); }
 
 .tabs_inner .nav.nav-tabs {
   display: block;
@@ -2572,10 +2572,10 @@ h6 {
       font-weight: 500;
       color: #fff;
       font-family: "Roboto", sans-serif;
-      border: 1px solid #9ab5f5;
+      border: 1px solid #8fe9940a;
       background: rgba(255, 255, 255, 0.1); }
       .tabs_inner .nav.nav-tabs li a.active {
-        background: #fff;
+        background: #8fe89400;
         color: #222222; }
 .tabs_inner .tab-content .tab-pane .list {
   max-width: 460px;
@@ -2603,7 +2603,7 @@ h6 {
       background: rgba(255, 255, 255, 0.2);
       position: absolute;
       left: 46%;
-      top: 30px;
+      top: 16px;
       transform: translateX(-50%); }
       .tabs_inner .tab-content .tab-pane .list li span:before {
         content: '';
